@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body {
+          font-family: Arial, Helvetica, sans-serif;
+          margin: 0;
+        }
+        /* Style the header */
+        .header {
+          padding: 250px;
+          text-align: center;
+          background: url('https://lh3.googleusercontent.com/pw/AP1GczP3qHePCTOIpqFVNCPE1KfN5Vv9jXXrWDytC7p4p_g1xuS8iIxdE58gsZU_RhQYAJcL3J98ogneOeMwxJhTDL9NQI8O2covJWzkH7z5KbQvBJ69XxE=w2400');
+          background-repeat: no-repeat;
+          background-attachment: fixed; 
+          background-size: cover;
+          color: white;
+          font-size: 40px;
+        }
+        
+        /* Increase the font size of the h1 element */
+        .header h1 {
+          font-size: 60px;
+          font-family: Arial;
+        }
+        h2 {
+          text-align: center;
+          font-size: 20px;
+          font-family: Arial;
+          background-color: #333;
+          color: rgb(243, 235, 235);
+        }
+        h3 {
+          margin-left: 40px;
+        }
+        /* Style the top navigation bar */
+        .navbar {
+        overflow: hidden;
+        background-color: #333;
+        }
+        /* Style the navigation bar links */
+        .navbar a {
+        float: right;
+        display: block;
+        color: rgb(243, 235, 235);
+        text-align: center;
+        padding: 14px 20px;
+        text-decoration: none;
+        }
+
+        .btn {
+         border: 2px solid;
+         border-color: #333;
+         background-color: white;
+         color:#333;
+         padding: 14px 28px;
+         font-size: 16px;
+         cursor: pointer;
+         display: inline-block;
+         margin-right: 10px;
+        }
+        
+        .btn:a {
+        float: right;
+        display: block;
+        color: rgb(243, 235, 235);
+        text-align: center;
+        padding: 14px 20px;
+        text-decoration: none;
+        }
+
+        .btn:hover {
+        background-color: #ddd;
+        color: black;
+        }
+
+        /* Right-aligned link */
+        .navbar a.right {
+        float: right;
+        }
+
+        /* Change color on hover */
+        .navbar a:hover {
+        background-color: #ddd;
+        color: black;
+        }
+        .intro {
+        margin-top: 50px;
+        margin-bottom: 100px;
+        margin-right: 80px;
+        margin-left: 80px;
+          
+        }
+        .pub {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-right: 80px;
+        margin-left: 80px;
+          }
+        .container { 
+        height: 170px;
+        position: relative;
+          }
+
+        .center {
+        margin: 0;
+        position: absolute;
+        padding-left: 0px;
+        top: 60%;
+        left: 50%;
+        transform: translate(65px, -50px);
+        }       
+    </style>
+   <head>
+      <title> Alice Lacaze-Masmonteil- Website</title>
+      <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+   </head>
+   <body>
+    <div class="header"> 
+        <h1> Alice Lacaze-Masmonteil </h1>
+        <p>PIMS-CNRS Post-Doctoral Fellow</p>
+      </div>
+    <div class="navbar">
+        <!--<a lass = "nav-link" href ="#Hobbies">Hobbies</a>-->
+        <a class = "nav-link" href ="https://alicelacaze-masmonteil.github.io/Teaching.html">Teaching</a>
+        <a class = "nav-link" href ="https://alicelacaze-masmonteil.github.io/conferences.html">Conferences</a>
+        <a class = "nav-link" href ="https://alicelacaze-masmonteil.github.io/Publications.html">Publications</a>
+        <a class = "nav-link" href ="https://alicelacaze-masmonteil.github.io/index.html">Home</a> </a>
+    </div>
+
+        <h2>Research talks </h2>
+        <div class="pub" style="font-family:verdana;margin-right:80px;text-align:justify">
+          <h3> Recent Conferences</h3>
+          <ol> 
+               <li style=" margin-bottom:10px"> <em>Completing the solution to directed Oberwolfach problem with two tables</em>, Scientific Session on Design Theory: 2024 Canadian Mathematical Society Winter Meeting, Vancouver, BC, Canada, December 2024.  
+              <li style=" margin-bottom:10px"> <em>Hamiltonian decompositions of the wreath product of two hamiltonian decomposable directed graphs</em>,  BIRS Workshop - Movement and Symmetry in Graphs, Banff, AB, Canada, November 2024.
+                 <a style="text-decoration:none;color:rgb(26, 116, 219)" target="_blank" href="https://alicelacaze-masmonteil.github.io/BIRS-2024.pdf"> Slides </a>        
+            <li style=" margin-bottom:10px"> <em>Hamiltonian decompositions of the wreath product of two hamiltonian decomposable directed graphs</em>, Women in Combinatorics Virtual Conference, Online, July 2024.
+            <a style="text-decoration:none;color:rgb(26, 116, 219)" target="_blank" href="https://alicelacaze-masmonteil.github.io/WinComSlides2024.pdf"> Slides </a>  
+              <li style=" margin-bottom:10px"> <em>On the directed Oberwolfach problem with two tables</em>, 45th Australasian
+                Combinatorics Conference, Perth, WA, Australia, December 2023.
+                <a style="text-decoration:none;color:rgb(26, 116, 219)" target="_blank" href="https://alicelacaze-masmonteil.github.io/[L-M]ACC 2023.pdf"> Slides</a>          
+              <li style=" margin-bottom:10px"> <em>Resolution of the directed Oberwolfach problem with cycles of uniform
+                  length</em>, 10th Slovenian Conference on Graph Theory: Combinatorial Designs
+                  and their Applications Mini Symposium, Kranjska Gora, Slovenia, June 2023.
+                  <a style="text-decoration:none;color:rgb(26, 116, 219)" target="_blank" href="https://alicelacaze-masmonteil.github.io/[L-M]CMS 2023.pdf"> Slides</a>  
+                <li style=" margin-bottom:10px"> <em>Resolution of the directed Oberwolfach problem with cycles of uniform
+                  length</em>, Scientific Session on Design Theory and Graph Decompositions: 2023 Canadian Mathematical Society Summer Meeting: Design
+                  Theory and Graph Decomposition Session, Ottawa, ON, Canada, June 2023.
+                <li style=" margin-bottom:10px"> <em>Resolution of the directed Oberwolfach problem with cycles of uniform
+                  length</em>, 27th Ontario Combinatorics Workshop, Ottawa, ON, Canada, May 2023.
+                <li style=" margin-bottom:10px"> <em>Resolvable directed cycle decompositions of the complete symmetric digraph</em>,
+                  Scientific Session on Design Theory and Graph Decompositions: 2022 Canadian Mathematical Society Summer Meeting: Design
+                  Theory and Graph Decomposition Session, St. John's, NL, Canada, June 2022. 
+                  <a style="text-decoration:none;color:rgb(26, 116, 219)" target="_blank" href="https://alicelacaze-masmonteil.github.io/OCW26.pdf"> Slides</a>
+                <li style=" margin-bottom:10px"> <em>Resolvable directed cycle decompositions of the complete symmetric digraph</em>,
+                  26th Ontario Combinatorics Workshop, Waterloo, ON, Canada, May 2022.
+                </li>
+          </ol>
+          <h3> Seminars</h3>
+            <ol> 
+              <li style=" margin-bottom:10px"><em> On the two-table case of the directed Oberwolfach problem</em>, AARMS Atlantic Graph Theory Seminar, Online, November 2024.
+                <a style="text-decoration:none;color:rgb(26, 116, 219)" target="_blank" href="https://alicelacaze-masmonteil.github.io/AARMS-Talk.pdf"> Slides </a>    
+              <li style=" margin-bottom:10px"> <em>On recent advances on the directed Oberwolfach proble</em>m, PIMS-Lethbridge Number Theory and Combinatorics seminar, University of Lethbridge, AB, Canada, October 2024.
+                <li style=" margin-bottom:10px"> <em>Adapting Häggkvist-style constructions to the directed Oberwolfach problem</em>, PIMS Emergent Research Seminar, Online, October 2024.
+                  <a style="text-decoration:none;color:rgb(26, 116, 219)" target="_blank" href="https://alicelacaze-masmonteil.github.io/PIMS-talk.pdf"> Slides </a> 
+                  <li style=" margin-bottom:10px"><em>On the directed Oberwolfach problem</em>, Monash University Discrete Math Seminar, Melbourne, VIC, Australia, October 2023.
+            </ol> 
+        </div>
+
+   </body>
+</html>
