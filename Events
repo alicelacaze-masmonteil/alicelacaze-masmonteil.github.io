@@ -111,6 +111,7 @@
     </style>
     <div class="navbar">
         <a lass = "nav-link" href ="https://alicelacaze-masmonteil.github.io/Travel.html">Travel</a>
+        <a class = "nav-link" href ="https://alicelacaze-masmonteil.github.io/Events.html">Events</a>
         <a class = "nav-link" href ="https://alicelacaze-masmonteil.github.io/Teaching.html">Teaching</a>
         <a class = "nav-link" href ="https://alicelacaze-masmonteil.github.io/Conferences.html">Conferences</a>
         <a class = "nav-link" href ="https://alicelacaze-masmonteil.github.io/Publications.html">Publications</a>
@@ -141,19 +142,23 @@
   <section>
    <div class="gallery">
         <div class="gallery-item item-3x4">
-            <img class="thumb placeholder" src="https://alicelacaze-masmonteil.github.io/photos/Spain.jpg" data-src="https://alicelacaze-masmonteil.github.io/photos/OMSC.jpg" data-image="https://alicelacaze-masmonteil.github.io/photos/Spain.jpg"  data-title="Las Medulas, Spain">
+            <img class="thumb placeholder" src="https://alicelacaze-masmonteil.github.io/photos/OMSC.jpg" data-src="https://alicelacaze-masmonteil.github.io/photos/OMSC.jpg" data-image="https://alicelacaze-masmonteil.github.io/photos/Spain.jpg"  data-title="Las Medulas, Spain">
             <div class="caption"><span> 2023 Ottawa Mathematics and Statistics Conference</span></div>
         </div>
 
         <div class="gallery-item item-4x3">
-            <img class="thumb placeholder" src="https://alicelacaze-masmonteil.github.io/photos/Brazil.jpg"  data-src="https://alicelacaze-masmonteil.github.io/photos/CanaDam.jpg"  data-image="https://alicelacaze-masmonteil.github.io/photos/Brazil.jpg"  data-title="Itacar&eacute, Brazil">
+            <img class="thumb placeholder" src="https://alicelacaze-masmonteil.github.io/photos/CanaDam.jpg"  data-src="https://alicelacaze-masmonteil.github.io/photos/CanaDam.jpg"  data-image="https://alicelacaze-masmonteil.github.io/photos/Brazil.jpg"  data-title="Itacar&eacute, Brazil">
             <div class="caption"><span>2025 Canadian Discrete and Algorithmic Mathematics Conference: Design Theory and Graph Decomposition Session</span></div>
         </div>
 
         <div class="gallery-item item-3x4">
-            <img class="thumb placeholder" src="https://alicelacaze-masmonteil.github.io/photos/NZ.jpg" data-src="https://alicelacaze-masmonteil.github.io/photos/CMS2025.jpg" data-image="https://alicelacaze-masmonteil.github.io/photos/NZ.jpg" data-title="Heaphy Trail, New Zealand" >
+            <img class="thumb placeholder" src="https://alicelacaze-masmonteil.github.io/photos/CMS2025.jpg" data-src="https://alicelacaze-masmonteil.github.io/photos/CMS2025.jpg" data-image="https://alicelacaze-masmonteil.github.io/photos/NZ.jpg" data-title="Heaphy Trail, New Zealand" >
             <div class="caption"><span>2025 CMS Winter Meeting: Combinatorial Design Theory Session </span></div>
-        </div>				
+        </div>		
+        <div class="gallery-item item-3x4">
+            <img class="thumb placeholder" src="https://alicelacaze-masmonteil.github.io/photos/PDMW.jpg" data-src="https://alicelacaze-masmonteil.github.io/photos/PDMW.jpg" data-image="https://alicelacaze-masmonteil.github.io/photos/NZ.jpg" data-title="Heaphy Trail, New Zealand" >
+            <div class="caption"><span> 2026 Prairie Discrete Mathematics Workshop </span></div>
+        </div>		
   </section>
            
     		</div>
